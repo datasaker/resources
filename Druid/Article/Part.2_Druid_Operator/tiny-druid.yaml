@@ -7,7 +7,7 @@ metadata:
   name: tiny-cluster
   namespace: druid
 spec:
-  image: apache/druid:26.0.0
+  image: apache/druid:25.0.0
   # Optionally specify image for all nodes. Can be specify on nodes also
   # imagePullSecrets:
   # - name: tutu
